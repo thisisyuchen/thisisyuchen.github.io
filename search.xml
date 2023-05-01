@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Ultrafast Transient Absorption Spectra</title>
+    <url>/2023/04/29/Time-Resolved-Spectrum/</url>
+    <content><![CDATA[<script type="math/tex; mode=display">
+1s=10^3ms =10^6 \mu s =10^9ns=10^{12}ps=10^{15}fs=10^{18}as</script><p>为什么我们需要使用更快的瞬态吸收光谱技术？</p>
+<p>人作为一个被观察对象时，在一秒内可以走2-3步；人作为观察者时，反应速度约为$0.1s$。当化学生物反应在一瞬间完成的时候，我们如何像观察人运动一样观察反应的发生成为了一个问题。这个问题无疑推动了瞬态吸收光谱技术的产生与发展。</p>
+<h2 id="马奔跑时几只蹄子落地？"><a href="#马奔跑时几只蹄子落地？" class="headerlink" title="马奔跑时几只蹄子落地？"></a>马奔跑时几只蹄子落地？</h2><p>有一个问题曾经让人们很困惑：马跑的时候，四蹄是不是都会离开地面？这个问题看似简单，却很难用肉眼观察。直到19世纪末，一个人用摄影的方式揭开了这个谜底。他就是埃德华·迈布里奇，一位著名的美国西部风光摄影师。</p>
+<p>迈布里奇的故事和一匹马有关。这匹马的主人是加利福尼亚州的前州长，也是斯坦福大学的创始人，叫做Leland Stanford。他非常喜欢赛马，但他对马跑的时候是否四蹄离地感到好奇。他找到了迈布里奇，让他帮忙解决这个问题。迈布里奇想出了一个巧妙的办法：他在赛马道旁边安装了一排相机，每当马经过时，就触发快门拍照。通过这样的方法，他拍下了马跑的全过程，从而证明了马跑的时候确实有一刻四蹄都不着地。</p>
+<p><img src="马.jpg" alt="horse"></p>
+<p>这个发现不仅让斯坦福感到惊讶，也让世界震惊。因为迈布里奇的照片不仅展示了马跑的真实姿态，也展示了摄影的无限可能。迈布里奇后来还把这些照片制成了动画片，成为了电影的先驱。他的作品的影响不局限于电影与摄影。</p>
+<p>在我们材料表征技术中，也有这样的天才般的创意。<strong>而我们的瞬态吸收光谱其实就是高速快门相机📷。</strong></p>
+]]></content>
+      <categories>
+        <category>Chem</category>
+        <category>Optics</category>
+      </categories>
+      <tags>
+        <tag>Chem</tag>
+        <tag>Spectrum</tag>
+        <tag>Time Scale</tag>
+        <tag>Material</tag>
+        <tag>Bio</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Way of Contact</title>
+    <url>/2099/02/12/My-first-Blog/</url>
+    <content><![CDATA[<p>📧<strong>Email:</strong>  ycqian@stu.xidian.edu.cn </p>
+<p>Hi! If you are interested in my blogs, please don’t hesitate to contact me!</p>
+<p>I am now a student in Xidian University.  Major in <strong>Electronic Science and Technology</strong>. </p>
+<p> <strong>Language:</strong> <strong>English (Fluent), Mandarin Chinese (Native), Jianghuai Official Language (Native)</strong></p>
+]]></content>
+      <categories>
+        <category>Contact</category>
+      </categories>
+      <tags>
+        <tag>Email</tag>
+        <tag>Contact</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2023/04/27/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>Categories</title>
+    <url>/categories/index.html</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>&#39;tag&#39;</title>
+    <url>/tag/index.html</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>Links of My Friends</title>
+    <url>/links/index.html</url>
+    <content><![CDATA[<div class="post-body">
+   <div id="links">
+      <style>
+         .links-content{
+         margin-top:1rem;
+         }
+         .link-navigation::after {
+         content: " ";
+         display: block;
+         clear: both;
+         }
+         .card {
+         width: 45%;
+         font-size: 1rem;
+         padding: 10px 20px;
+         border-radius: 4px;
+         transition-duration: 0.15s;
+         margin-bottom: 1rem;
+         display:flex;
+         }
+         .card:nth-child(odd) {
+         float: left;
+         }
+         .card:nth-child(even) {
+         float: right;
+         }
+         .card:hover {
+         transform: scale(1.1);
+         box-shadow: 0 2px 6px 0 rgba(0, 0, 0, 0.12), 0 0 6px 0 rgba(0, 0, 0, 0.04);
+         }
+         .card a {
+         border:none;
+         }
+         .card .ava {
+         width: 3rem!important;
+         height: 3rem!important;
+         margin:0!important;
+         margin-right: 1em!important;
+         border-radius:4px;
+         }
+         .card .card-header {
+         font-style: italic;
+         overflow: hidden;
+         width: 100%;
+         }
+         .card .card-header a {
+         font-style: normal;
+         color: #2bbc8a;
+         font-weight: bold;
+         text-decoration: none;
+         }
+         .card .card-header a:hover {
+         color: #d480aa;
+         text-decoration: none;
+         }
+         .card .card-header .info {
+         font-style:normal;
+         color:#a3a3a3;
+         font-size:14px;
+         min-width: 0;
+         overflow: hidden;
+         white-space: nowrap;
+         }
+      </style>
+      <div class="links-content">
+         <div class="link-navigation">
+            <div class="card">
+               <div class="card-header">
+                  <div>
+                     <a href="https://colombegoogoo.github.io">Colombe’s blog</a>
+                  </div>
+                  <div class="info">He's a gay(wrong, lol, a guy~) from xuzhou.</div>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+</div>
+]]></content>
+  </entry>
+</search>
