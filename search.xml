@@ -11,6 +11,8 @@
 <p><img src="马.jpg" alt="horse"></p>
 <p>这个发现不仅让斯坦福感到惊讶，也让世界震惊。因为迈布里奇的照片不仅展示了马跑的真实姿态，也展示了摄影的无限可能。迈布里奇后来还把这些照片制成了动画片，成为了电影的先驱。他的作品的影响不局限于电影与摄影。</p>
 <p>在我们材料表征技术中，也有这样的天才般的创意。<strong>而我们的瞬态吸收光谱其实就是高速快门相机📷。</strong></p>
+<h2 id="Pump-amp-Probe"><a href="#Pump-amp-Probe" class="headerlink" title="Pump &amp; Probe"></a>Pump &amp; Probe</h2><p>飞秒瞬态吸收光谱仪最核心也是最天才的设计就是<strong>Delay Stage</strong>，它可以给一束光（也就是我们下面说的探测光）施加一个时间延迟。泵浦光能量较高，它可以激发样品使其达到激发态；探测光的功能则与它的名字一致，起到一个探测的作用。 在测试时泵浦光打在样品上，可以激发出各样的物理现象，测量出样品的透射率、反射率的变化。通过对探测光信号的捕捉观察就可以获取激发后衰减的动力学过程。</p>
+<iframe src="//player.bilibili.com/player.html?aid=626451056&bvid=BV1Vt4y1X7y7&cid=216074027&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 ]]></content>
       <categories>
         <category>Chem</category>
